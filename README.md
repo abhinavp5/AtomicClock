@@ -1,5 +1,6 @@
-### Digital CLock for DE10lite FPGA
-
+### Digital Clock for DE10lite FPGA
+<img src="demo" width="400" alt="Example of keeping time">
+### Instructions
 | Control | Signal | Function |
 |---------|--------|----------|
 | SW0 | en | 1 = clock ticks (runs). 0 = frozen |
